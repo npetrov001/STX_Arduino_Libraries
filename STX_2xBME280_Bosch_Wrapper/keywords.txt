@@ -1,0 +1,41 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+STX_2xBME280_Bosch_Wrapper       KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Start                            KEYWORD2
+SetMaxDiffTolerance              KEYWORD2
+Read                             KEYWORD2
+DiffToleranceOK_Last             KEYWORD2
+DiffToleranceOK_Total            KEYWORD2
+
+T_Avg                            KEYWORD2
+H_Avg                            KEYWORD2
+P_Avg                            KEYWORD2
+
+require_both_sensors             KEYWORD2
+bosch_id1                        KEYWORD2
+bosch_id2                        KEYWORD2
+
+T1                               KEYWORD2
+H1                               KEYWORD2
+P1                               KEYWORD2
+T2                               KEYWORD2
+H2                               KEYWORD2
+P2                               KEYWORD2
+
+MaxTdiff                         KEYWORD2
+MaxHdiff                         KEYWORD2
+MaxPdiff                         KEYWORD2
+
+Tdiff                            KEYWORD2
+Hdiff                            KEYWORD2
+Pdiff                            KEYWORD2
+
+sensor1                          KEYWORD2
+sensor2                          KEYWORD2
